@@ -1,2 +1,2 @@
 # ruffian
-Authentic Ruffian web evelopment
+Authentic Ruffian web development
